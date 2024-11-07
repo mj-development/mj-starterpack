@@ -7,11 +7,6 @@ This script provides a convenient way for players to receive starter packs conta
 - **Modern UI** for better readability
 - **EASY** to download and integrate!
 
-## Preview
-# MJ Notify Preview
-[![Preview of MJ Notify](https://img.youtube.com/vi/JARpJrShY34/maxresdefault.jpg)](https://www.youtube.com/watch?v=JARpJrShY34)
-
-
 ## ⚙️ Installation Instructions 
 
 1. ## Download/Buy the Script:
